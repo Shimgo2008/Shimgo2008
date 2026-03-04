@@ -1,5 +1,5 @@
 2008/07/12
-<a herf="https://github-stats-eta-two.vercel.app/">
+<a href="https://github-stats-eta-two.vercel.app/">
   <img src="https://github-stats-eta-two.vercel.app/api/stats/shimgo2008" alt="Developer Score">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
