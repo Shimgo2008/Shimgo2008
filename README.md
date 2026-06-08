@@ -3,17 +3,17 @@
   <img src="https://github-stats-eta-two.vercel.app/api/stats/shimgo2008" alt="Developer Score">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shimgo2008&count_private=true&show_icons=true&date=1780800123" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shimgo2008&count_private=true&show_icons=true&date=1780886738" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimgo2008&count_private=true&date=1780800123" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimgo2008&count_private=true&date=1780886738" />
 </a>
 
 ===以下自慢===
 
 ラグランジアンは愚かEL方程式を知らない状態から
 ```
-1. 汎函数の定義 -> 無限次元への方向微分の拡張(フレシェじゃなくてgâteau微分でいいかなって...物理的文脈だし...) -> EL方程式の導出, //1.5week
+1. 汎函数の定義 -> 無限次元への方向微分の拡張(gâteau微分でいいかなって...物理的文脈だし...) -> EL方程式の導出, //1.5week
 2. ミンコフスキー計量 -> その上で距離を測るという行為 -> $E^2=(pc)^2 + (mc^2 )^2$と$\gamma \coloneqq \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$の導入 // 1day
 3. Stoneの定理 -> CCR-正準交換関係-を用いたいわゆる「量子化」の再定義(ハイゼンベルグ Lie代数, weylの関係式, Stone-von Neumannの定理) -> シュレディンガー方程式
 3.5. E=mc^2(簡略) -> CCR -> KG-equation // 3~3.5で1day
